@@ -110,10 +110,10 @@ export default function App() {
     else setSessionWrong((w) => w + 1);
   }
 
-  function handleReveal() {
+  function handleToggleReveal() {
     if (!currentQuestion) return;
     const qKey = questionKey(currentQuestion);
-    setSessionRevealed((prev) => (prev[qKey] ? prev : { ...prev, [qKey]: true }));
+    setSessionRevealed((prev) => ({ ...prev, [qKey]: !prev[qKey] }));
   }
 
   function goNext() {
@@ -127,6 +127,12 @@ export default function App() {
   function toggleReviewMode() {
     setReviewMode((v) => !v);
     if (!reviewMode) setMode('quiz');
+  }
+
+  function handleRestartSession() {
+    if (window.confirm('Làm lại phiên này từ đầu? Các câu đã trả lời trong phiên hiện tại sẽ bị ẩn đáp án lại.')) {
+      startNewSession();
+    }
   }
 
   return (
@@ -214,12 +220,23 @@ export default function App() {
             </div>
           ) : (
             <>
-              <ProgressBar
-                current={currentIndex + 1}
-                total={sessionQuestions.length}
-                correct={sessionCorrect}
-                wrong={sessionWrong}
-              />
+              <div className="flex items-center gap-3">
+                <div className="min-w-0 flex-1">
+                  <ProgressBar
+                    current={currentIndex + 1}
+                    total={sessionQuestions.length}
+                    correct={sessionCorrect}
+                    wrong={sessionWrong}
+                  />
+                </div>
+                <button
+                  type="button"
+                  onClick={handleRestartSession}
+                  className="shrink-0 rounded-lg border border-slate-300 px-3 py-1.5 text-xs font-semibold text-slate-600 transition hover:bg-slate-100 lg:px-4 lg:py-2 lg:text-sm"
+                >
+                  Làm lại từ đầu
+                </button>
+              </div>
               {mode === 'quiz' ? (
                 <QuizCard
                   question={currentQuestion}
@@ -234,7 +251,7 @@ export default function App() {
                 <FlashCard
                   question={currentQuestion}
                   revealed={sessionRevealed[questionKey(currentQuestion)] ?? false}
-                  onReveal={handleReveal}
+                  onToggleReveal={handleToggleReveal}
                   onNext={goNext}
                   onPrevious={goPrevious}
                   hasPrevious={currentIndex > 0}
