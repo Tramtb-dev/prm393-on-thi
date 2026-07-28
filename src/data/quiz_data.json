@@ -6508,5 +6508,677 @@
     "answer": "A",
     "explanation": "",
     "moduleShort": "Đề ôn thi mẫu 2 (50 câu)"
+  },
+  {
+    "module": "ĐỀ ÔN THI MẪU 3 (48/50 câu — thiếu câu 10, 11)",
+    "section": null,
+    "q": "Which widget pattern protects authenticated routes?",
+    "options": {
+      "A": "Navigator",
+      "B": "Guard",
+      "C": "Route protection",
+      "D": "Middleware"
+    },
+    "answer": "B",
+    "explanation": "",
+    "moduleShort": "Đề ôn thi mẫu 3 (48/50 câu)"
+  },
+  {
+    "module": "ĐỀ ÔN THI MẪU 3 (48/50 câu — thiếu câu 10, 11)",
+    "section": null,
+    "q": "Why are tests important for refactoring?",
+    "options": {
+      "A": "Reduce UI work",
+      "B": "Ensure changes don't break functionality",
+      "C": "Improve animations",
+      "D": "Change layout"
+    },
+    "answer": "B",
+    "explanation": "",
+    "moduleShort": "Đề ôn thi mẫu 3 (48/50 câu)"
+  },
+  {
+    "module": "ĐỀ ÔN THI MẪU 3 (48/50 câu — thiếu câu 10, 11)",
+    "section": null,
+    "q": "What is the role of BuildContext in Flutter?",
+    "options": {
+      "A": "Store application data",
+      "B": "Locate widgets in the widget tree",
+      "C": "Manage navigation history",
+      "D": "Render UI pixels"
+    },
+    "answer": "B",
+    "explanation": "",
+    "moduleShort": "Đề ôn thi mẫu 3 (48/50 câu)"
+  },
+  {
+    "module": "ĐỀ ÔN THI MẪU 3 (48/50 câu — thiếu câu 10, 11)",
+    "section": null,
+    "q": "What role does the Flutter framework play in application development?",
+    "options": {
+      "A": "It manages database servers",
+      "B": "It provides UI components and rendering logic",
+      "C": "It replaces the operating system",
+      "D": "It runs backend business logic"
+    },
+    "answer": "B",
+    "explanation": "",
+    "moduleShort": "Đề ôn thi mẫu 3 (48/50 câu)"
+  },
+  {
+    "module": "ĐỀ ÔN THI MẪU 3 (48/50 câu — thiếu câu 10, 11)",
+    "section": null,
+    "q": "How is the Flutter UI constructed internally?",
+    "options": {
+      "A": "Using XML layout files",
+      "B": "Using HTML and CSS",
+      "C": "Using a hierarchical widget tree",
+      "D": "Using native UI components only"
+    },
+    "answer": "C",
+    "explanation": "",
+    "moduleShort": "Đề ôn thi mẫu 3 (48/50 câu)"
+  },
+  {
+    "module": "ĐỀ ÔN THI MẪU 3 (48/50 câu — thiếu câu 10, 11)",
+    "section": null,
+    "q": "Which widget enables custom scroll effects in Flutter?",
+    "options": {
+      "A": "ListView",
+      "B": "SingleChildScrollView",
+      "C": "CustomScrollView",
+      "D": "Column"
+    },
+    "answer": "C",
+    "explanation": "",
+    "moduleShort": "Đề ôn thi mẫu 3 (48/50 câu)"
+  },
+  {
+    "module": "ĐỀ ÔN THI MẪU 3 (48/50 câu — thiếu câu 10, 11)",
+    "section": null,
+    "q": "Which practice improves rendering performance?",
+    "options": {
+      "A": "Large widget trees",
+      "B": "Splitting widgets",
+      "C": "Global state",
+      "D": "Frequent rebuilds"
+    },
+    "answer": "B",
+    "explanation": "",
+    "moduleShort": "Đề ôn thi mẫu 3 (48/50 câu)"
+  },
+  {
+    "module": "ĐỀ ÔN THI MẪU 3 (48/50 câu — thiếu câu 10, 11)",
+    "section": null,
+    "q": "What does an integration test verify?",
+    "options": {
+      "A": "Single function",
+      "B": "Widget rendering",
+      "C": "End-to-end app behavior",
+      "D": "Theme consistency"
+    },
+    "answer": "C",
+    "explanation": "",
+    "moduleShort": "Đề ôn thi mẫu 3 (48/50 câu)"
+  },
+  {
+    "module": "ĐỀ ÔN THI MẪU 3 (48/50 câu — thiếu câu 10, 11)",
+    "section": null,
+    "q": "Why is separating UI and state logic recommended?",
+    "options": {
+      "A": "Reduce code size",
+      "B": "Improve maintainability",
+      "C": "Faster execution",
+      "D": "Better animations"
+    },
+    "answer": "B",
+    "explanation": "",
+    "moduleShort": "Đề ôn thi mẫu 3 (48/50 câu)"
+  },
+  {
+    "module": "ĐỀ ÔN THI MẪU 3 (48/50 câu — thiếu câu 10, 11)",
+    "section": null,
+    "q": "When does Flutter rebuild the widget tree?",
+    "options": {
+      "A": "On every frame",
+      "B": "When state changes",
+      "C": "Only when app restarts",
+      "D": "Only during hot restart"
+    },
+    "answer": "B",
+    "explanation": "",
+    "moduleShort": "Đề ôn thi mẫu 3 (48/50 câu)"
+  },
+  {
+    "module": "ĐỀ ÔN THI MẪU 3 (48/50 câu — thiếu câu 10, 11)",
+    "section": null,
+    "q": "Which concept does BLoC heavily rely on?",
+    "options": {
+      "A": "Future",
+      "B": "Stream",
+      "C": "Animation",
+      "D": "Theme"
+    },
+    "answer": "B",
+    "explanation": "",
+    "moduleShort": "Đề ôn thi mẫu 3 (48/50 câu)"
+  },
+  {
+    "module": "ĐỀ ÔN THI MẪU 3 (48/50 câu — thiếu câu 10, 11)",
+    "section": null,
+    "q": "Why is version control critical?",
+    "options": {
+      "A": "UI changes",
+      "B": "Track and manage code changes",
+      "C": "Improve animations",
+      "D": "Store data"
+    },
+    "answer": "B",
+    "explanation": "",
+    "moduleShort": "Đề ôn thi mẫu 3 (48/50 câu)"
+  },
+  {
+    "module": "ĐỀ ÔN THI MẪU 3 (48/50 câu — thiếu câu 10, 11)",
+    "section": null,
+    "q": "Why is immutability important in BLoC states?",
+    "options": {
+      "A": "UI speed",
+      "B": "Predictable state changes",
+      "C": "Memory usage",
+      "D": "Theme control"
+    },
+    "answer": "B",
+    "explanation": "",
+    "moduleShort": "Đề ôn thi mẫu 3 (48/50 câu)"
+  },
+  {
+    "module": "ĐỀ ÔN THI MẪU 3 (48/50 câu — thiếu câu 10, 11)",
+    "section": null,
+    "q": "Which Flutter plugin provides SQLite support?",
+    "options": {
+      "A": "hive",
+      "B": "moor",
+      "C": "sqflite",
+      "D": "shared_preferences"
+    },
+    "answer": "C",
+    "explanation": "",
+    "moduleShort": "Đề ôn thi mẫu 3 (48/50 câu)"
+  },
+  {
+    "module": "ĐỀ ÔN THI MẪU 3 (48/50 câu — thiếu câu 10, 11)",
+    "section": null,
+    "q": "What is the main benefit of using Maps in Dart?",
+    "options": {
+      "A": "Storing values without keys",
+      "B": "Storing key-value pairs",
+      "C": "Rendering UI components",
+      "D": "Managing asynchronous tasks"
+    },
+    "answer": "B",
+    "explanation": "",
+    "moduleShort": "Đề ôn thi mẫu 3 (48/50 câu)"
+  },
+  {
+    "module": "ĐỀ ÔN THI MẪU 3 (48/50 câu — thiếu câu 10, 11)",
+    "section": null,
+    "q": "Which tool helps analyze UI performance in Flutter?",
+    "options": {
+      "A": "Inspector",
+      "B": "DevTools",
+      "C": "Emulator",
+      "D": "Hot reload"
+    },
+    "answer": "B",
+    "explanation": "",
+    "moduleShort": "Đề ôn thi mẫu 3 (48/50 câu)"
+  },
+  {
+    "module": "ĐỀ ÔN THI MẪU 3 (48/50 câu — thiếu câu 10, 11)",
+    "section": null,
+    "q": "What does a Dart class primarily represent?",
+    "options": {
+      "A": "A UI widget only",
+      "B": "A blueprint for creating objects",
+      "C": "A database table",
+      "D": "A network request"
+    },
+    "answer": "B",
+    "explanation": "",
+    "moduleShort": "Đề ôn thi mẫu 3 (48/50 câu)"
+  },
+  {
+    "module": "ĐỀ ÔN THI MẪU 3 (48/50 câu — thiếu câu 10, 11)",
+    "section": null,
+    "q": "What is the purpose of SliverAppBar?",
+    "options": {
+      "A": "Static app bar",
+      "B": "Scrollable flexible app bar",
+      "C": "Bottom navigation",
+      "D": "Drawer control"
+    },
+    "answer": "B",
+    "explanation": "",
+    "moduleShort": "Đề ôn thi mẫu 3 (48/50 câu)"
+  },
+  {
+    "module": "ĐỀ ÔN THI MẪU 3 (48/50 câu — thiếu câu 10, 11)",
+    "section": null,
+    "q": "What is Hive mainly used for?",
+    "options": {
+      "A": "Remote database",
+      "B": "Lightweight local NoSQL storage",
+      "C": "State management",
+      "D": "Routing"
+    },
+    "answer": "B",
+    "explanation": "",
+    "moduleShort": "Đề ôn thi mẫu 3 (48/50 câu)"
+  },
+  {
+    "module": "ĐỀ ÔN THI MẪU 3 (48/50 câu — thiếu câu 10, 11)",
+    "section": null,
+    "q": "Which HTTP header is commonly used for authorization?",
+    "options": {
+      "A": "Content-Type",
+      "B": "Accept",
+      "C": "Authorization",
+      "D": "Cache-Control"
+    },
+    "answer": "C",
+    "explanation": "",
+    "moduleShort": "Đề ôn thi mẫu 3 (48/50 câu)"
+  },
+  {
+    "module": "ĐỀ ÔN THI MẪU 3 (48/50 câu — thiếu câu 10, 11)",
+    "section": null,
+    "q": "What does TextEditingController manage?",
+    "options": {
+      "A": "Theme",
+      "B": "Text input value",
+      "C": "Validation rules",
+      "D": "Layout constraints"
+    },
+    "answer": "B",
+    "explanation": "",
+    "moduleShort": "Đề ôn thi mẫu 3 (48/50 câu)"
+  },
+  {
+    "module": "ĐỀ ÔN THI MẪU 3 (48/50 câu — thiếu câu 10, 11)",
+    "section": null,
+    "q": "Why is Dart considered suitable for Flutter development?",
+    "options": {
+      "A": "It is only used for backend systems",
+      "B": "It supports both UI and application logic efficiently",
+      "C": "It replaces native languages",
+      "D": "It does not support asynchronous programming"
+    },
+    "answer": "B",
+    "explanation": "",
+    "moduleShort": "Đề ôn thi mẫu 3 (48/50 câu)"
+  },
+  {
+    "module": "ĐỀ ÔN THI MẪU 3 (48/50 câu — thiếu câu 10, 11)",
+    "section": null,
+    "q": "What does the build() method return in a widget?",
+    "options": {
+      "A": "A screen",
+      "B": "A widget tree describing the UI",
+      "C": "Application state",
+      "D": "Rendered pixels"
+    },
+    "answer": "B",
+    "explanation": "",
+    "moduleShort": "Đề ôn thi mẫu 3 (48/50 câu)"
+  },
+  {
+    "module": "ĐỀ ÔN THI MẪU 3 (48/50 câu — thiếu câu 10, 11)",
+    "section": null,
+    "q": "What represents the output of a BLoC?",
+    "options": {
+      "A": "Events",
+      "B": "Widgets",
+      "C": "States",
+      "D": "Controllers"
+    },
+    "answer": "C",
+    "explanation": "",
+    "moduleShort": "Đề ôn thi mẫu 3 (48/50 câu)"
+  },
+  {
+    "module": "ĐỀ ÔN THI MẪU 3 (48/50 câu — thiếu câu 10, 11)",
+    "section": null,
+    "q": "What is Cubit in BLoC?",
+    "options": {
+      "A": "UI widget",
+      "B": "Simplified BLoC without events",
+      "C": "Database layer",
+      "D": "Animation helper"
+    },
+    "answer": "B",
+    "explanation": "",
+    "moduleShort": "Đề ôn thi mẫu 3 (48/50 câu)"
+  },
+  {
+    "module": "ĐỀ ÔN THI MẪU 3 (48/50 câu — thiếu câu 10, 11)",
+    "section": null,
+    "q": "Which activity is typically performed after creating a new Flutter project?",
+    "options": {
+      "A": "Deploying to app stores",
+      "B": "Running the default app on a device",
+      "C": "Configuring authentication",
+      "D": "Optimizing database queries"
+    },
+    "answer": "B",
+    "explanation": "",
+    "moduleShort": "Đề ôn thi mẫu 3 (48/50 câu)"
+  },
+  {
+    "module": "ĐỀ ÔN THI MẪU 3 (48/50 câu — thiếu câu 10, 11)",
+    "section": null,
+    "q": "Which practice improves deployment security?",
+    "options": {
+      "A": "Debug builds",
+      "B": "Secure signing keys",
+      "C": "Hardcoding secrets",
+      "D": "Skipping validation"
+    },
+    "answer": "B",
+    "explanation": "",
+    "moduleShort": "Đề ôn thi mẫu 3 (48/50 câu)"
+  },
+  {
+    "module": "ĐỀ ÔN THI MẪU 3 (48/50 câu — thiếu câu 10, 11)",
+    "section": null,
+    "q": "Why is Chapter 14 considered optional (Plus)?",
+    "options": {
+      "A": "Deployment is UI logic",
+      "B": "Apps can be tested without publishing",
+      "C": "It replaces authentication",
+      "D": "It handles APIs"
+    },
+    "answer": "B",
+    "explanation": "",
+    "moduleShort": "Đề ôn thi mẫu 3 (48/50 câu)"
+  },
+  {
+    "module": "ĐỀ ÔN THI MẪU 3 (48/50 câu — thiếu câu 10, 11)",
+    "section": null,
+    "q": "What is the primary purpose of ThemeData in Flutter?",
+    "options": {
+      "A": "Manage navigation",
+      "B": "Define application-wide visual styles",
+      "C": "Handle state changes",
+      "D": "Control animations"
+    },
+    "answer": "B",
+    "explanation": "",
+    "moduleShort": "Đề ôn thi mẫu 3 (48/50 câu)"
+  },
+  {
+    "module": "ĐỀ ÔN THI MẪU 3 (48/50 câu — thiếu câu 10, 11)",
+    "section": null,
+    "q": "Which method is used to update the UI when state changes?",
+    "options": {
+      "A": "build()",
+      "B": "setState()",
+      "C": "initState()",
+      "D": "dispose()"
+    },
+    "answer": "B",
+    "explanation": "",
+    "moduleShort": "Đề ôn thi mẫu 3 (48/50 câu)"
+  },
+  {
+    "module": "ĐỀ ÔN THI MẪU 3 (48/50 câu — thiếu câu 10, 11)",
+    "section": null,
+    "q": "Which Flutter package is commonly used for simple key-value storage?",
+    "options": {
+      "A": "sqflite",
+      "B": "shared_preferences",
+      "C": "provider",
+      "D": "http"
+    },
+    "answer": "B",
+    "explanation": "",
+    "moduleShort": "Đề ôn thi mẫu 3 (48/50 câu)"
+  },
+  {
+    "module": "ĐỀ ÔN THI MẪU 3 (48/50 câu — thiếu câu 10, 11)",
+    "section": null,
+    "q": "Why should architecture be decided early?",
+    "options": {
+      "A": "Avoid UI work",
+      "B": "Reduce refactoring cost",
+      "C": "Improve animations",
+      "D": "Change theme"
+    },
+    "answer": "B",
+    "explanation": "",
+    "moduleShort": "Đề ôn thi mẫu 3 (48/50 câu)"
+  },
+  {
+    "module": "ĐỀ ÔN THI MẪU 3 (48/50 câu — thiếu câu 10, 11)",
+    "section": null,
+    "q": "What is pagination used for?",
+    "options": {
+      "A": "UI animation",
+      "B": "Handling large datasets efficiently",
+      "C": "Theme management",
+      "D": "Authentication"
+    },
+    "answer": "B",
+    "explanation": "",
+    "moduleShort": "Đề ôn thi mẫu 3 (48/50 câu)"
+  },
+  {
+    "module": "ĐỀ ÔN THI MẪU 3 (48/50 câu — thiếu câu 10, 11)",
+    "section": null,
+    "q": "Which widget helps avoid rebuilding unchanged UI parts?",
+    "options": {
+      "A": "Container",
+      "B": "RepaintBoundary",
+      "C": "Column",
+      "D": "FutureBuilder"
+    },
+    "answer": "B",
+    "explanation": "",
+    "moduleShort": "Đề ôn thi mẫu 3 (48/50 câu)"
+  },
+  {
+    "module": "ĐỀ ÔN THI MẪU 3 (48/50 câu — thiếu câu 10, 11)",
+    "section": null,
+    "q": "Which widget is used to handle asynchronous API responses in UI?",
+    "options": {
+      "A": "FutureBuilder",
+      "B": "ListView",
+      "C": "Provider",
+      "D": "Form"
+    },
+    "answer": "A",
+    "explanation": "",
+    "moduleShort": "Đề ôn thi mẫu 3 (48/50 câu)"
+  },
+  {
+    "module": "ĐỀ ÔN THI MẪU 3 (48/50 câu — thiếu câu 10, 11)",
+    "section": null,
+    "q": "Which Dart feature helps organize code into reusable libraries?",
+    "options": {
+      "A": "Widgets",
+      "B": "Packages and imports",
+      "C": "Hot reload",
+      "D": "Layout constraints"
+    },
+    "answer": "B",
+    "explanation": "",
+    "moduleShort": "Đề ôn thi mẫu 3 (48/50 câu)"
+  },
+  {
+    "module": "ĐỀ ÔN THI MẪU 3 (48/50 câu — thiếu câu 10, 11)",
+    "section": null,
+    "q": "What is refresh token used for?",
+    "options": {
+      "A": "UI refresh",
+      "B": "Extend session without re-login",
+      "C": "Theme update",
+      "D": "Navigation reset"
+    },
+    "answer": "B",
+    "explanation": "",
+    "moduleShort": "Đề ôn thi mẫu 3 (48/50 câu)"
+  },
+  {
+    "module": "ĐỀ ÔN THI MẪU 3 (48/50 câu — thiếu câu 10, 11)",
+    "section": null,
+    "q": "What is rebuild scope optimization in Flutter?",
+    "options": {
+      "A": "Reducing widget tree depth",
+      "B": "Limiting rebuild to affected widgets",
+      "C": "Caching API responses",
+      "D": "Using global state"
+    },
+    "answer": "B",
+    "explanation": "",
+    "moduleShort": "Đề ôn thi mẫu 3 (48/50 câu)"
+  },
+  {
+    "module": "ĐỀ ÔN THI MẪU 3 (48/50 câu — thiếu câu 10, 11)",
+    "section": null,
+    "q": "Why is BLoC suitable for large teams?",
+    "options": {
+      "A": "Less code",
+      "B": "Standardized architecture",
+      "C": "Faster builds",
+      "D": "UI reuse"
+    },
+    "answer": "B",
+    "explanation": "",
+    "moduleShort": "Đề ôn thi mẫu 3 (48/50 câu)"
+  },
+  {
+    "module": "ĐỀ ÔN THI MẪU 3 (48/50 câu — thiếu câu 10, 11)",
+    "section": null,
+    "q": "Which widget reacts to async data from local storage?",
+    "options": {
+      "A": "FutureBuilder",
+      "B": "StreamBuilder",
+      "C": "ListView",
+      "D": "Provider"
+    },
+    "answer": "A",
+    "explanation": "Đọc một lần từ local storage (vd: SharedPreferences) dùng FutureBuilder; nếu cần theo dõi thay đổi liên tục thì dùng StreamBuilder — kiểm tra lại slide gốc nếu ngữ cảnh khác.",
+    "moduleShort": "Đề ôn thi mẫu 3 (48/50 câu)"
+  },
+  {
+    "module": "ĐỀ ÔN THI MẪU 3 (48/50 câu — thiếu câu 10, 11)",
+    "section": null,
+    "q": "What is a token in authentication systems?",
+    "options": {
+      "A": "UI key",
+      "B": "Temporary access credential",
+      "C": "Database ID",
+      "D": "Theme value"
+    },
+    "answer": "B",
+    "explanation": "",
+    "moduleShort": "Đề ôn thi mẫu 3 (48/50 câu)"
+  },
+  {
+    "module": "ĐỀ ÔN THI MẪU 3 (48/50 câu — thiếu câu 10, 11)",
+    "section": null,
+    "q": "What does a Tween define?",
+    "options": {
+      "A": "Animation speed",
+      "B": "Value range for animation",
+      "C": "UI layout",
+      "D": "State logic"
+    },
+    "answer": "B",
+    "explanation": "",
+    "moduleShort": "Đề ôn thi mẫu 3 (48/50 câu)"
+  },
+  {
+    "module": "ĐỀ ÔN THI MẪU 3 (48/50 câu — thiếu câu 10, 11)",
+    "section": null,
+    "q": "Which Dart feature allows defining reusable, type-safe components?",
+    "options": {
+      "A": "Mixins",
+      "B": "Generics",
+      "C": "Futures",
+      "D": "Streams"
+    },
+    "answer": "B",
+    "explanation": "",
+    "moduleShort": "Đề ôn thi mẫu 3 (48/50 câu)"
+  },
+  {
+    "module": "ĐỀ ÔN THI MẪU 3 (48/50 câu — thiếu câu 10, 11)",
+    "section": null,
+    "q": "Which widget animates between two widgets?",
+    "options": {
+      "A": "AnimatedSwitcher",
+      "B": "AnimatedOpacity",
+      "C": "AnimatedAlign",
+      "D": "AnimatedSize"
+    },
+    "answer": "A",
+    "explanation": "",
+    "moduleShort": "Đề ôn thi mẫu 3 (48/50 câu)"
+  },
+  {
+    "module": "ĐỀ ÔN THI MẪU 3 (48/50 câu — thiếu câu 10, 11)",
+    "section": null,
+    "q": "Why should setState() be called sparingly?",
+    "options": {
+      "A": "It increases app size",
+      "B": "It may trigger unnecessary rebuilds",
+      "C": "It blocks UI thread",
+      "D": "It causes memory leaks"
+    },
+    "answer": "B",
+    "explanation": "",
+    "moduleShort": "Đề ôn thi mẫu 3 (48/50 câu)"
+  },
+  {
+    "module": "ĐỀ ÔN THI MẪU 3 (48/50 câu — thiếu câu 10, 11)",
+    "section": null,
+    "q": "What is test isolation?",
+    "options": {
+      "A": "Running all tests together",
+      "B": "Independence of test cases",
+      "C": "UI separation",
+      "D": "Mocking only"
+    },
+    "answer": "B",
+    "explanation": "",
+    "moduleShort": "Đề ôn thi mẫu 3 (48/50 câu)"
+  },
+  {
+    "module": "ĐỀ ÔN THI MẪU 3 (48/50 câu — thiếu câu 10, 11)",
+    "section": null,
+    "q": "What does crossAxisAlignment control?",
+    "options": {
+      "A": "Vertical alignment in Column",
+      "B": "Horizontal alignment in Column",
+      "C": "Child order",
+      "D": "Widget size"
+    },
+    "answer": "B",
+    "explanation": "",
+    "moduleShort": "Đề ôn thi mẫu 3 (48/50 câu)"
+  },
+  {
+    "module": "ĐỀ ÔN THI MẪU 3 (48/50 câu — thiếu câu 10, 11)",
+    "section": null,
+    "q": "Which tool is commonly used for version control?",
+    "options": {
+      "A": "SVN",
+      "B": "Git",
+      "C": "FTP",
+      "D": "ZIP"
+    },
+    "answer": "B",
+    "explanation": "",
+    "moduleShort": "Đề ôn thi mẫu 3 (48/50 câu)"
   }
 ]
